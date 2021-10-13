@@ -1,4 +1,2 @@
-var timeMS = prompt("Milliseconds only", "500 minimum")
-
 (function(){document.getElementsByClassName("UIButton UIButton--hero")[0].click();
-setTimeout(function(){for(var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i)}, timeMS);})();
+setTimeout(function(){for(var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i)}, prompt("Milliseconds only", "500 minimum"));})();
