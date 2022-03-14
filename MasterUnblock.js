@@ -1,6 +1,6 @@
 (function() {
     const options = {
-        'text': "You Wish",
+        'text': "Penis",
         'size': 150,
         'weight': 800,
         'speed': 50
